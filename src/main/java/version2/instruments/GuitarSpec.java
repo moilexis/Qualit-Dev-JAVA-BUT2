@@ -1,9 +1,8 @@
 package version2.instruments;
 
-import version2.enumType.Builder;
-import version2.enumType.Style;
-import version2.enumType.Type;
-import version2.enumType.Wood;
+import enumType.Builder;
+import enumType.Type;
+import enumType.Wood;
 
 public class GuitarSpec extends InstrumentSpec {
     private int numberOfStrings ;

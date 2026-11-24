@@ -1,6 +1,6 @@
 package version2.instruments;
 
-import version2.enumType.*;
+import enumType.*;
 
 public class MandolinSpec extends InstrumentSpec{
     private Style style;

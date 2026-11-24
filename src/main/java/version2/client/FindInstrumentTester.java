@@ -1,8 +1,8 @@
 package version2.client;
 
 
-import version2.enumType.Builder;
-import version2.enumType.*;
+import enumType.Builder;
+import enumType.*;
 import version2.instruments.GuitarSpec;
 import version2.instruments.InstrumentSpec;
 import version2.instruments.MandolinSpec;

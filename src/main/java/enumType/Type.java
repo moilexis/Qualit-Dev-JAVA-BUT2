@@ -1,4 +1,4 @@
-package version2.enumType;
+package enumType;
 
 public enum Type { 
 

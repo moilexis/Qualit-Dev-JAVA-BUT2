@@ -1,8 +1,8 @@
 package version2.instruments;
 
-import version2.enumType.Builder;
-import version2.enumType.Type;
-import version2.enumType.Wood;
+import enumType.Builder;
+import enumType.Type;
+import enumType.Wood;
 
 import java.time.chrono.IsoChronology;
 
